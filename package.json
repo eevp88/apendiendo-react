@@ -1,0 +1,25 @@
+{
+  "name": "apendiendo-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eevp88/apendiendo-react.git"
+  },
+  "author": "Enzo Vera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eevp88/apendiendo-react/issues"
+  },
+  "homepage": "https://github.com/eevp88/apendiendo-react#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}
